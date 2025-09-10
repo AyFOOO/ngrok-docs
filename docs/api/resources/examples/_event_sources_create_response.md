@@ -5,6 +5,6 @@
 ```json
 {
   "type": "ip_policy_updated.v0",
-  "uri": "https://api.ngrok.com/event_subscriptions/esb_32ELHaU2ryHwCVraCMuPUilq2Rq/sources/ip_policy_updated.v0"
+  "uri": "https://api.ngrok.com/event_subscriptions/esb_32VHc0syoZujBJuhNnR1Xm2Ungy/sources/ip_policy_updated.v0"
 }
 ```
